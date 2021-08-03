@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@500&display=swap');
+.bg
+{
+    background-image: url(./images/81539.jpg);
+    background-size:100% 100% ;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+   
+    
+
+}
+.logo
+{
+    font-family: 'WindSong', cursive;
+    font-size: 5vmax;
+    color: rgb(61, 194, 228);
+}
+.title
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2vw;
+    color: rgb(255, 255, 255);
+    margin-top: 2vh;
+}
+.title2
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(131, 158, 167);
+    margin-left: 2vw;
+}
+.content
+{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5vh;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 8vh;
+}
